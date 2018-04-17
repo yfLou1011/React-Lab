@@ -135,6 +135,6 @@ class Index extends Component {
             </div>
         )
     }
-}
+} 
 
 ReactDOM.render(<Index/>, document.getElementById('root'));
